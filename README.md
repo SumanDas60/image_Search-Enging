@@ -67,11 +67,11 @@ client_id = gzNaf8OB0IPcelCvc0TeL8iCrQZxhYfn-PEmzAaHgMc
 
 ### Search Page
 
-![Search Screenshot](https://dummyimage.com/800x400/cccccc/000000\&text=Image+Search+Engine)
+![Search Screenshot](https://github.com/SumanDas60/image_Search-Enging/blob/83722828108e0bb8a601748eff5399a1c52b6543/Screenshot%202025-09-18%20205738.png)
 
 ### Results
 
-![Results Screenshot](https://dummyimage.com/800x400/aaaaaa/000000\&text=Search+Results)
+![Results Screenshot](https://github.com/SumanDas60/image_Search-Enging/blob/83722828108e0bb8a601748eff5399a1c52b6543/Screenshot%202025-09-18%20205913.png)
 
 ---
 
